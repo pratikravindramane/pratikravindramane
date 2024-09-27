@@ -3,12 +3,12 @@
 I build solutions with code, transforming ideas into scalable products. Passionate about creating seamless user experiences, robust backends, and everything in between.
 
 🔧 Tech Stack:
+- MERN (MongoDB, Express, React, Node.js)
+- JavaScript / TypeScript
+- AWS & Cloud Architecture
+- RESTful APIs & Microservices
+- Responsive Design & Animation
 
-MERN (MongoDB, Express, React, Node.js)
-JavaScript / TypeScript
-AWS & Cloud Architecture
-RESTful APIs & Microservices
-Responsive Design & Animation
 🚀 Always learning, building, and growing.
 🌱 Currently exploring DSA & Java to sharpen problem-solving.
 
