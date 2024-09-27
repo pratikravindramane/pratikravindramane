@@ -1,16 +1,15 @@
-## Hi there 👋
+👨‍💻 Full Stack Developer | MERN Enthusiast | Software Innovator
 
-<!--
-**pratikravindramane/pratikravindramane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build solutions with code, transforming ideas into scalable products. Passionate about creating seamless user experiences, robust backends, and everything in between.
 
-Here are some ideas to get you started:
+🔧 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MERN (MongoDB, Express, React, Node.js)
+JavaScript / TypeScript
+AWS & Cloud Architecture
+RESTful APIs & Microservices
+Responsive Design & Animation
+🚀 Always learning, building, and growing.
+🌱 Currently exploring DSA & Java to sharpen problem-solving.
+
+Let’s build something amazing together! 💻✨
