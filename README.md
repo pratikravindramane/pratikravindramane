@@ -8,6 +8,8 @@ I build solutions with code, transforming ideas into scalable products. Passiona
 - AWS & Cloud Architecture
 - RESTful APIs & Microservices
 - Responsive Design & Animation
+- Flutter (dart)
+- JAVA DSA
 
 🚀 Always learning, building, and growing.
 🌱 Currently exploring DSA & Java to sharpen problem-solving.
